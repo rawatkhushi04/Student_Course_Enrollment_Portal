@@ -46,7 +46,7 @@ A full-stack web application for students to browse, enroll, and manage online c
 ---
 
 ## 📁 Project Structure
-'''
+```bash
 eduenroll/
 ├── backend/                  # FastAPI Backend
 │   ├── app/
@@ -68,7 +68,7 @@ eduenroll/
 │   ├── .env
 │   └── package.json
 └── README.md
-'''
+```
 
 ## 🚀 How to Run the Project
 
@@ -94,7 +94,7 @@ Seed Sample Courses (Run once):
 Open this URL in browser:
 texthttp://127.0.0.1:8000/seed-courses
 2. Frontend Setup
-Bashcd frontend
+cd frontend
 
 npm install
 
